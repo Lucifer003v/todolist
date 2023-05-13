@@ -5,7 +5,7 @@
 
 # To Do List
 
-![ToDoList](https://socialify.git.ci/Lccifer003v/todolist/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
+![ToDoList](https://socialify.git.ci/Lucifer003v/todolist/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
 
 #### This web page is hosted [here!](https://tusharjustdoit.netlify.app/)
 
