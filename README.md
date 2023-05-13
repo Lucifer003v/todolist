@@ -5,11 +5,11 @@
 
 # To Do List
 
-![ToDoList](https://socialify.git.ci/tusharnankani/ToDoList/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
+![ToDoList](https://socialify.git.ci/Lccifer003v/todolist/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
 
 #### This web page is hosted [here!](https://tusharjustdoit.netlify.app/)
 
-- View the local installation in the [CONTRUBUTING.md](https://github.com/tusharnankani/ToDoList/blob/master/CONTRIBUTING.md).
+- View the local installation in the [CONTRUBUTING.md](https://github.com/Lucifer003v/todolist/blob/master/CONTRIBUTING.md).
 
 ### *Features*:
 
@@ -44,8 +44,8 @@ Check [Issues](https://github.com/Lucifer003v/todolist/) for contributing to thi
 # *Contributions*
 
 - All contributors are most welcome! This is definitely open source!
-- View the [`CONTRIBUTING.md`](https://github.com/tusharnankani/ToDoList/blob/master/CONTRIBUTING.md) for further instructions, requirements/dependencies & local project setup instructions!
-- All the contributors to this repository can be found in the [`CONTRIBUTORS.md`](https://github.com/tusharnankani/ToDoList/blob/master/CONTRIBUTORS.md) file!
+- View the [`CONTRIBUTING.md`](https://github.com/Lucifer003v/todolist/blob/master/CONTRIBUTING.md) for further instructions, requirements/dependencies & local project setup instructions!
+- All the contributors to this repository can be found in the [`CONTRIBUTORS.md`](https://github.com/Lucifer003v/todolist/blob/master/CONTRIBUTORS.md) file!
 
 ## *WEBSITE DEMO*
 
